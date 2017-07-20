@@ -1,0 +1,2 @@
+Main-Class: log
+Class-Path: . mysql-connector-java-5.1.18-bin.jar
